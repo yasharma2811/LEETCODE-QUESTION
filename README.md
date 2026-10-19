@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/0054-spiral-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1114-print-in-order](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/1115-print-foobar-alternately) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
