@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/0054-spiral-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -40,4 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/3886-sum-of-sortable-integers) |
+## Math
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/3886-sum-of-sortable-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
