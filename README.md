@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/0136-single-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3886-sum-of-sortable-integers](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/3886-sum-of-sortable-integers) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
