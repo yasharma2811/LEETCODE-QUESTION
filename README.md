@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/0009-palindrome-number) |
 | [3886-sum-of-sortable-integers](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
