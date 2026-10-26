@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/0125-valid-palindrome) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/yasharma2811/LEETCODE-QUESTION/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
