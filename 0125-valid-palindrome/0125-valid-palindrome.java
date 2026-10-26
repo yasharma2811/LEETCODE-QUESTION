@@ -1,7 +1,7 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        if (s == null) {
-            return false;
+        if (s == null || s.isEmpty()) {
+            return true;
         }
 
         int left = 0;
@@ -11,15 +11,15 @@ class Solution {
             char cLeft = s.charAt(left);
             char cRight = s.charAt(right);
 
-            // Skip non-alphanumeric characters from the left
+            // Skip if left is not alphanumeric
             if (!Character.isLetterOrDigit(cLeft)) {
                 left++;
             } 
-            // Skip non-alphanumeric characters from the right
+            // Skip if right is not alphanumeric
             else if (!Character.isLetterOrDigit(cRight)) {
                 right--;
             } 
-            // Compare characters case-insensitively
+            // Compare lowercase versions of both alphanumeric characters
             else {
                 if (Character.toLowerCase(cLeft) != Character.toLowerCase(cRight)) {
                     return false;
